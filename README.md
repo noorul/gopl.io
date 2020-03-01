@@ -1,2 +1,2 @@
 # gopl.io
-Go Programming Language Excercises
+[The Go Programming Language](https://www.gopl.io/) book exercises
